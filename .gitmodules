@@ -1,0 +1,6 @@
+[submodule "breaktime"]
+	path = breaktime
+	url = git@github.com:juliamendesc/breaktime.git
+[submodule "podcastr"]
+	path = podcastr
+	url = git@github.com:juliamendesc/podcastr.git

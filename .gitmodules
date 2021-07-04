@@ -4,3 +4,6 @@
 [submodule "podcastr"]
 	path = podcastr
 	url = git@github.com:juliamendesc/podcastr.git
+[submodule "NLW06-Let-me-ask-someone"]
+	path = NLW06-Let-me-ask-someone
+	url = git@github.com:juliamendesc/NLW06-Let-me-ask-someone.git

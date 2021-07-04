@@ -7,3 +7,6 @@
 [submodule "NLW06-Let-me-ask-someone"]
 	path = NLW06-Let-me-ask-someone
 	url = git@github.com:juliamendesc/NLW06-Let-me-ask-someone.git
+[submodule "Let-me-ask-someone"]
+	path = Let-me-ask-someone
+	url = git@github.com:juliamendesc/Let-me-ask-someone.git
